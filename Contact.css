@@ -2,6 +2,10 @@
   background-image: none;
 }
 
+.u-section-1 {
+ background-color: black;
+ }
+ 
 .u-section-1 .u-sheet-1 {
   min-height: 730px;
 }
