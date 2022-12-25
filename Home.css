@@ -3,12 +3,12 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 300px;
+  min-height: 598px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
   margin-top: 198px;
-  margin-bottom: 60px;
+  margin-bottom: 0;
   position: relative;
 }
 
@@ -45,7 +45,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 230px;
+    min-height: 528px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -69,7 +69,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 153px;
+    min-height: 451px;
   }
 
   .u-section-1 .u-layout-cell-1 {
