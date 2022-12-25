@@ -46,7 +46,7 @@ template,
   display: none;
 }
 a {
-  background-color: transparent;
+  background-color: black;
   -webkit-text-decoration-skip: objects;
 }
 a:active,
