@@ -129,6 +129,7 @@
 }
 
 .u-section-2 .u-text-1 {
+  background-color: black;
   color: white;
   font-weight: 600;
   transition-duration: 0.5s;
